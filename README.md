@@ -30,9 +30,12 @@ npm install
 npm run dev
 ```
 
-## 🌐 API
+## API
 
 * https://pokeapi.co/
+
+## 🌐 DEMO
+* https://pokedex-react-gray.vercel.app/
 
 ## 📌 Notas
 
