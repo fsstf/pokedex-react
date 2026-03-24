@@ -19,7 +19,7 @@ Aplicación web construida con React que permite buscar Pokémon en tiempo real 
 
 ## 📸 Vista previa
 
-![preview](https://raw.githubusercontent.com/tu-usuario/pokedex-react/main/preview.png)
+![preview](https://raw.githubusercontent.com/fsstf/pokedex-react/main/preview.png)
 
 ## ⚙️ Instalación
 
