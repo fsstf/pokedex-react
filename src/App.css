@@ -1,0 +1,84 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #0f172a;
+  color: #e2e8f0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Card */
+.card {
+  background: #1e293b;
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  width: 320px;
+}
+
+/* Títulos */
+h1, h2 {
+  color: inherit;
+}
+
+/* Input */
+input {
+  width: 100%;
+  background: #0f172a;
+  color: #e2e8f0;
+  border: 1px solid #334155;
+  padding: 10px;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+input::placeholder {
+  color: #94a3b8;
+}
+
+input:focus {
+  outline: none;
+  border-color: #38bdf8;
+}
+
+/* Estados */
+.loading {
+  color: #38bdf8;
+}
+
+.error {
+  color: #f87171;
+}
+
+/* Resultado */
+.result img {
+  width: 120px;
+}
+
+.result h2 {
+  text-transform: capitalize;
+  margin: 10px 0;
+}
+
+/* Tipos */
+.types {
+  margin-top: 10px;
+}
+
+.type {
+  display: inline-block;
+  background: #334155;
+  padding: 5px 10px;
+  border-radius: 999px;
+  margin: 4px;
+  font-size: 12px;
+}
